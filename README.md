@@ -1,18 +1,14 @@
-## Hi there 👋
+# Olá, eu sou o Enzo Vigo 👋
 
-<!--
-**EnzooVigo/EnzooVigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Engenharia de Software** na Universidade Positivo, com experiência em liderança de projetos acadêmicos como Product Owner.
 
-Here are some ideas to get you started:
+## 🏆 Certificações
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Foundations](https://img.shields.io/badge/GitHub_Foundations-Parte_1_de_2-8A2BE2?logo=github)](https://learn.microsoft.com/api/achievements/share/pt-br/EnzoVigoBaum-7575/K9V3GUSB?sharingId=50C8C47C1B51DD3E)
 
-docs: adiciona apresentação e badge GitHub Foundations
+Trilha GitHub Foundations concluída no Microsoft Learn.
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/enzo-vigo-b592a4429)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:enzovb0409@gmail.com)
